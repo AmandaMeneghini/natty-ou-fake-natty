@@ -5,8 +5,10 @@ Desafio de fazer algo parecer o mais natural possível com IA generativa
 Desafio do **Bootcamp Santander Fundamentos de IA para devs**
 
 ## 🤖 Tecnologias Utilizadas
-<img src="./assets/logos/chatgpt.png" style="width: 50px">
-<img src="./assets/logos/copilot.png" style="width: 50px">
+<div style="display: flex">
+    <img src="./assets/logos/chatgpt.png" style="width: 50px">
+    <img src="./assets/logos/copilot.png" style="width: 50px">
+</div>
 
 ## 🧐 Processo de Criação
 Devido a **teoria do "vale da estranhesa"** - algo não humano, tentar ser o mais humano possível, causar estranhesa aos olhos por não ser exatamente igual ao humano, escolhi utilizar um animal bonito e icônico como um urso pardo.
