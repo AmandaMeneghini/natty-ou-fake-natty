@@ -26,7 +26,7 @@ Crie uma imagem de um urso pardo vestindo uma camiseta verde de futebol american
 <img src="./assets/images/DALL·E-2024-09-19-21.48.png">
 
 ## 💭 Reflexão
-Foi muito interessante testar a função de geração de Imagens do ChatGPT, não chega ser melhor que o Bing (que deixa gerar até 14 imagens e com maior detalhes e texturas), mas é interessante o estilo das imagens em sí do ChatGPT.
+Foi muito interessante testar a função de geração de Imagens do ChatGPT, não chega ser melhor que o Copilot (que deixa gerar até 14 imagens e com maior detalhes e texturas), mas é interessante o estilo das imagens em sí do ChatGPT.
 
 ## 🗂 Estrutura do Projeto
 ```
