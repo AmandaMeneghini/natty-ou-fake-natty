@@ -27,3 +27,14 @@ Crie uma imagem de um urso pardo vestindo uma camiseta verde de futebol american
 
 ## 💭 Reflexão
 Fui muito interessante testar a IA Generativa de Imagens do ChatGPT não chega ser melhor que o Bing (que deixa gerar até 14 imagens), mas é interessante o estilo dela.
+
+## 🗂 Estrutura do Projeto
+```
+/
+├── assets/
+│   └── images/           # Imagens utilizadas (chatGPT e Copilot)
+|   └── logos/            # logos utilizados
+│   
+└── README.md             # Este arquivo
+    
+```
