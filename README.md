@@ -38,3 +38,20 @@ Foi muito interessante testar a função de geração de Imagens do ChatGPT, nã
 └── README.md             # Este arquivo
     
 ```
+
+## 👨‍💻 Autora
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/126250269?s=400&u=a41f78350f40507f1e429eb13b63e19c4ffe6e09&v=4"
+    />
+    <p>&nbsp&nbsp&nbspAmanda Meneghini<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/AmandaMeneghini" target="_blank">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/amanda-meneghini/" target="_blank">LinkedIn</a>
+    &nbsp;&nbsp;
+    </p>
+
